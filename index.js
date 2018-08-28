@@ -1,3 +1,9 @@
+
+[No Subject]
+Cedric David <cedric.david@btopenworld.com>  Today at 10:33
+To	
+Cedric David
+Message body
 /**
  * Don't change these constants!
  */
@@ -29,12 +35,12 @@ function checkCollision(rock) {
     const dodgerLeftEdge = positionToInteger(DODGER.style.left)
 
     // FIXME: The DODGER is 40 pixels wide -- how do we get the right edge?
-    const dodgerRightEdge = dodgerLeftEdge + 40;
+    const dodgerRightEdge = 0;
 
     const rockLeftEdge = positionToInteger(rock.style.left)
 
     // FIXME: The rock is 20 pixel's wide -- how do we get the right edge?
-    const rockRightEdge = rockLeftEdge + 20;
+    const rockRightEdge = 0;
 
     if (false /**
                * Think about it -- what's happening here?
