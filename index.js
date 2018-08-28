@@ -1,22 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @zufre Sign out
-1
-0 215 Saturn226/javascript-rock-dodger-js-intro-000
-forked from learn-co-students/javascript-rock-dodger-js-intro-000
- Code  Pull requests 0  Projects 0  Insights
-javascript-rock-dodger-js-intro-000/index.js
-6924817  on 14 Mar 2017
-@Saturn226 Saturn226 Done.
-@pletcher @Saturn226
-     
-202 lines (171 sloc)  5.34 KB
 /**
  * Don't change these constants!
  */
